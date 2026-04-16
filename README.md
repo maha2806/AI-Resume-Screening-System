@@ -52,3 +52,4 @@ This project automates the recruitment process using Artificial Intelligence by 
 
 ### Match Result
 ![Result](screenshots/output.png)
+
