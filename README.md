@@ -48,8 +48,12 @@ This project automates the recruitment process using Artificial Intelligence by 
 ## 📸 Screenshots
 
 ### API Running
-![API](screenshots/api_running.png)
+[API](screenshots/api_running.png)
+
+### Open Browser
+[Open Browser](screenshots/open_browser.png)
 
 ### Match Result
-![Result](screenshots/output.png)
+[Result](screenshots/output.png)
+
 
