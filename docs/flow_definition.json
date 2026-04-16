@@ -4,7 +4,7 @@
   "trigger": {
     "Resume Upload": {
       "type": "File Upload",
-      "format": ["PDF", "DOCX"]
+      "format": ["PDF/DOCX"]
     }
   },
   "actions": {
